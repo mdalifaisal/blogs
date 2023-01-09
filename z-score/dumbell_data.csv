@@ -1,0 +1,21 @@
+timeframe,countryname, caps , code ,pair,percent
+latest,France,19.98,FR,2,5%
+previous,France,18.99,FR,2,
+latest,Portugal,16.09,PT,3,3%
+previous,Portugal,15.55,PT,3,
+latest,Switzerland,15.34,CH,4,-9%
+previous,Switzerland,16.77,CH,4,
+latest,Germany,16.05,DE,5,4%
+previous,Germany,15.47,DE,5,
+latest,Netherlands,13.04,NL,6,4%
+previous,Netherlands,12.51,NL,6,
+latest,Norway,12.57,NO,7,-4%
+previous,Norway,13.05,NO,7,
+latest,Italy,13.17,IT,8,11%
+previous,Italy,11.83,IT,8,
+latest,Ireland,10.99,IE,9,-4%
+previous,Ireland,11.42,IE,9,
+latest,Turkey,7.29,TR,10,-20%
+previous,Turkey,9.15,TR,10,
+latest,Poland,7.05,PL,11,-13%
+previous,Poland,8.11,PL,11,
