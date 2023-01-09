@@ -4,4 +4,4 @@
 
 [<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[**Personal website**] https://mdalifaisal.github.io/blog/
+[website] https://mdalifaisal.github.io/blog/
