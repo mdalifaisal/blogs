@@ -14,7 +14,7 @@ library(here)
 library(htmltools)
 
 # Plot -------------------------------------------------------------------------
-flights <- read.csv('dumbell_data.csv')
+bells <- read.csv('dumbell_data.csv')
 # You might need to install Roboto
 
 font <- "Roboto"
@@ -33,7 +33,7 @@ subtitle_html <- glue(
    <span style='color:{chart_colours[2]};'>(2020)</span>."
 )
 
-p <- flights |>
+p <- bells |>
         ggplot(aes(x = caps, y = countryname)) +
         
         # Add the line
