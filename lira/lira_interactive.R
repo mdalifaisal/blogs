@@ -136,4 +136,5 @@ fig <- plot_ly(df, x = ~Date, y = ~ExchangeRate, type = "scatter", mode = "lines
   style(hoverlabel = list(bgcolor = "white", font = list(size = 14))) %>%
   highlight(on = "plotly_hover", off = "plotly_doubleclick")
 
-print(fig)
+#print(fig)
+#htmlwidgets::saveWidget(as_widget(fig), "lira.html")
