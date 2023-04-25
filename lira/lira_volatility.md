@@ -8,7 +8,7 @@ output:
     highlight: tango
     self_contained: false
 description: blog on the lira's volatility
-tags: r-plot econometrics
+tags: rplot econometrics finance
 categories: finance-posts
 ---
 
@@ -49,6 +49,6 @@ In the same paper, we modeled the Turkish lira's volatility with seven different
 </div>
 
 
-**_Disclaimer:_** Some of the points highlighted in this blog are a part of the second chapter of my Ph.D. dissertation and a paper I have co-authored with my supervisor Prof. Dr. Murat Donduran, of Yildiz Technical University.
+**_Disclaimer:_** Some of the points highlighted in this blog are a part of the second chapter of my Ph.D. dissertation and a paper I have co-authored with my supervisor Prof. Dr. Murat Donduran, of Yildiz Technical University. The code and data used in our paper are also available in a GitHub [repository](https://github.com/mdalifaisal/lira_volatility_code).
 
 [^1]: In a future blog, I intend to cover the main theoretical and empirical models of the exchange rates and hopefully provide a map that provides a systematic picture of the information derived from the literature. It is such an interesting and important issue; that I feel deserves a separate effort! 
